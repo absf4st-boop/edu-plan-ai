@@ -1,0 +1,6 @@
+{
+  "name": "EDU PLAN AI",
+  "description": "Asisten Digital Guru Sekolah Dasar - Pembuat Perangkat Pembelajaran SD Kurikulum Merdeka (Modul Ajar, PROTA, PROMES, ATP, CP/TP, Jurnal, LKPD)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
